@@ -13,6 +13,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
+  # First Git application
   titlePanel("Predict Horsepower from MPG"),
   
   # Sidebar with a slider input for number of bins 
